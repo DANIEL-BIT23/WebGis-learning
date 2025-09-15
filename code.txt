@@ -1,0 +1,8 @@
+building_error_string = [u",", u"，", u" "]  # 不允许的特殊符号
+valid_layer_name = [
+            "SurfPointElevation", "AccePointElevation", "RoofGreenElevation",
+            "GroundElevation", "Roof", "Roof_SoloCheck", "Accessory",
+            "Accessory_SoloCheck", "RoofGreen", "LoftLine", "MainOrientation"
+        ]
+distance_layer_name = ["House", "Residence", "NonResidence"]
+count_area_way = ["Area100FAR0", "Area100FAR1", "Area50FAR0", "Area50FAR1", "Area0"]
